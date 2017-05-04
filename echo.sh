@@ -1,5 +1,5 @@
 #!/bin/bash -e
-echo "testing runshtrigger!!!"
+echo "testing runshtrigger!!!!!!"
 echo SAMPLE_SCRIPT=res1
 echo IS_FORK=$RES3_IS_FORK
 echo IS_PR=$RES3_IS_PULL_REQUEST
