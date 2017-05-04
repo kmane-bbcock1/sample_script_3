@@ -1,0 +1,7 @@
+#!/bin/bash -e
+echo "testing runshtrigger!!!"
+echo SAMPLE_SCRIPT=res1
+echo IS_FORK=$RES3_IS_FORK
+echo IS_PR=$RES3_IS_PULL_REQUEST
+echo REPONAME=$RES3_REPO_FULL_NAME
+echo PRREPONAME=$RES3_PULL_REQUEST_REPO_FULL_NAME
