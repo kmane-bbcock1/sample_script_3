@@ -1,2 +1,2 @@
 #!/bin/bash -e
-echo "testing runshtrigger for 30 series!!!!!!"
+echo "testing runshtrigger for 30 series!"
